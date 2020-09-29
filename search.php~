@@ -1,0 +1,18 @@
+<?php
+	$bdd = pg_connect('mysql:host=127.0.0.1;dbname=projet_bdd;charset=utf8','postgre','shippuden');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?>
